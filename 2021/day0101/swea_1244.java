@@ -1,5 +1,10 @@
 package day0101;
-
+/**
+ * Char[]를 String생성자에 넣으면 알아서 String 만들어준다
+ *	String str = new String(chararr);
+ * 
+ * 
+ * */
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
